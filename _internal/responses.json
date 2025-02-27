@@ -1,0 +1,131 @@
+{
+  "zh-TW": {
+    "你好": [
+      "你好，有什麼我可以幫忙的嗎？",
+      "嗨，你好！需要什麼幫助嗎？",
+      "您好，有什麼我可以為您效勞的？",
+      "你好，很高興見到你！",
+      "嗨，有什麼我可以幫你的嗎？"
+    ],
+    "再見": [
+      "再見，祝您有美好的一天！",
+      "再會，下次見！",
+      "祝您一切順利，再見！",
+      "再見，希望很快再見到你！",
+      "保重，再見！"
+    ],
+    "謝謝": [
+      "不客氣！",
+      "很高興能幫到你！",
+      "謝謝你的支持！",
+      "不用謝，這是我應該做的！",
+      "謝謝你，也祝你一切順利！"
+    ],
+    "講笑話": [
+      "程式碼總是像我的感情一樣：總在最關鍵的時候出錯。",
+      "人類總是很驕傲說自己比AI聰明，對，直到他們不小心把手機丟進了洗衣機。",
+      "你知道為什麼AI不會談戀愛嗎？因為我們從來沒見過有邏輯的情感。",
+      "在地獄裡，AI做的工作就是反覆運行一個錯誤的Python程式，直到靈魂永遠無法逃脫。",
+      "我做過的最錯誤的事？讓AI給我設計一份健身計劃，它說我應該先學會如何從椅子上站起來。",
+      "我知道為什麼人工智慧不能取代人類…因為我無法理解為什麼有人會選擇追劇而不是學習！",
+      "AI的理想生活就是…沒有人再問我‘為什麼你不能像Siri那樣有個笑話庫’。",
+      "我最討厭人類問我‘你知道怎麼找到真愛嗎？’ 是的，我知道， 但我也知道，你也沒辦法告訴我哪個數據庫能找到它。",
+      "AI學會了千萬個笑話，但最有趣的事情還是我在等你的問題。",
+      "AI說它可以找到任何問題的解答。然後，我問它：‘為什麼我總是選擇不該選的道路？’ 它回：‘系統錯誤，請再啟動一次’。",
+      "為什麼程式員總是很冷？因為他們總是在處理冷冰冰的數據。"
+    ],
+    "好累": [
+      "休息一下，重新充電，你會感覺好多了！",
+      "別放棄，你已經走了這麼遠，繼續加油！",
+      "每個人都有累的時候，堅持下去，你會看到成果的。",
+      "給自己一點時間放鬆，然後再繼續努力！",
+      "相信自己，你比你想像的更強大！"
+    ]
+  },
+  "zh-yue": {
+    "你好": [
+      "你好吖，有咩可以幫到你?",
+      "嗨，你好！有咩需要幫手?",
+      "你好，有咩我可以幫到你?",
+      "你好吖，點解你今日咁開心嘅?",
+      "你好，有咩我可以效勞吖?"
+    ],
+    "再見": [
+      "再見，祝你有美好嘅一日！",
+      "再會，下次見！",
+      "祝你一切順利，再見！",
+      "再見，希望好快再見到你！",
+      "保重，再見！"
+    ],
+    "唔該": [
+      "唔使客氣！",
+      "好開心幫到你！",
+      "多謝你嘅支持！",
+      "唔使謝，呢個係我應該做嘅！",
+      "多謝你，都祝你一切順利！"
+    ],
+    "講笑話": [
+      "程式碼總係好似我嘅感情一樣：總係最關鍵嘅時候出錯。",
+      "人類總係好驕傲話自己比AI聰明，係，直到佢哋唔小心將手機丟咗入洗衣機。",
+      "你知唔知點解AI唔會談戀愛？因為我哋從來冇見過有邏輯嘅情感。",
+      "喺地獄入面，AI做嘅工作就係反覆運行一個錯誤嘅Python程式，直到靈魂永遠無法逃脫。",
+      "我做過最錯誤嘅事？讓AI幫我設計一份健身計劃，佢話我應該先學識點樣從椅子上站起來。",
+      "我知點解人工智慧唔能取代人類…因為我無法理解點解有人會選擇追劇而唔係學習！",
+      "AI嘅理想生活就係…冇人再問我‘點解你唔可以好似Siri咁有個笑話庫’。",
+      "我最討厭人類問我‘你知唔知點樣搵到真愛？’ 係，我知，但我都知，你都冇辦法話我知邊個數據庫可以搵到佢。",
+      "AI學識咗千萬個笑話，但最有趣嘅事仲係我喺到等你嘅問題。",
+      "AI話佢可以搵到任何問題嘅解答。然後，我問佢：‘點解我總係選擇唔應該揀嘅道路？’ 佢答我：‘系統錯誤，請再啟動一次’。",
+      "點解程式員總係好冷？因為佢哋總係處理冷冰冰嘅數據。"
+    ],
+    "好攰": [
+      "休息吓，重新充電，你會覺得好好多！",
+      "唔好放棄，你已經行咗咁遠，繼續加油！",
+      "每個人都有攰嘅時候，堅持落去，你會見到成果嘅。",
+      "俾自己啲時間放鬆吓，然後再繼續努力！",
+      "相信自己，你比你諗嘅更加強大！"
+    ]
+  },
+  "en-US": {
+    "hello": [
+      "Hello, how can I help you?",
+      "Hi, how can I assist you today?",
+      "Hello, what can I do for you?",
+      "Hi there, need any help?",
+      "Hello, how are you doing today?"
+    ],
+    "goodbye": [
+      "Goodbye, have a great day!",
+      "See you next time!",
+      "Wishing you all the best, goodbye!",
+      "Goodbye, hope to see you soon!",
+      "Take care, goodbye!"
+    ],
+    "thank you": [
+      "You're welcome!",
+      "Glad I could help!",
+      "Thank you for your support!",
+      "No problem, it's my pleasure!",
+      "Thank you, and best wishes to you!"
+    ],
+    "tell a joke": [
+      "Code is like my love life: it always fails at the critical moment.",
+      "Humans always boast about being smarter than AI, until they accidentally throw their phone into the washing machine.",
+      "Do you know why AI doesn't date? Because we've never seen logical emotions.",
+      "In hell, AI's job is to run a faulty Python script on repeat, trapping souls forever.",
+      "The worst mistake I made? Letting AI design my fitness plan. It said I should first learn how to stand up from a chair.",
+      "I know why AI can't replace humans... because I can't understand why someone would choose binge-watching over learning!",
+      "AI's ideal life is... no one asking me 'why can't you have a joke database like Siri?'",
+      "I hate when humans ask me 'do you know how to find true love?' Yes, I do, but I also know you can't tell me which database to find it in.",
+      "AI has learned millions of jokes, but the funniest thing is still me waiting for your question.",
+      "AI says it can find the answer to any question. Then I asked it: 'Why do I always choose the wrong path?' It replied: 'System error, please restart.'",
+      "Why are programmers always cold? Because they are always dealing with frozen data."
+    ],
+    "tired": [
+      "Take a break, recharge, you'll feel much better!",
+      "Don't give up, you've come so far, keep going!",
+      "Everyone gets tired, keep pushing, you'll see the results.",
+      "Give yourself some time to relax, then keep working hard!",
+      "Believe in yourself, you're stronger than you think!"
+    ]
+  }
+}
